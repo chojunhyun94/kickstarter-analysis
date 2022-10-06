@@ -20,6 +20,8 @@ Performing analysis on Kickstarter data to uncover trends
 One conclusion that I can draw from the outcomes based on launch date, May seems to be the best day to have the best probability of success.
 The other conclusion that I can draw is that December seems to have the lowest success to fail ratio. It may not have the most failed numerically, which is October, but based on the ratio, Decemember has the worst ratio.
 
+![Theater_Outcomes_Based_on_Launch_Date](Theater_Outcomes_Based_on_Launch_Date.png)
+
 - What can you conclude about the Outcomes based on Goals?
 One conclusion that I am observing is that the best success rate and lowest cancellation/failure rate is less than $1000. If possible, keeping the goal to less than $5000 seems to be the best chance of success. There is a sharp drop in success rate after $45000.
 
