@@ -25,6 +25,8 @@ The other conclusion that I can draw is that December seems to have the lowest s
 - What can you conclude about the Outcomes based on Goals?
 One conclusion that I am observing is that the best success rate and lowest cancellation/failure rate is less than $1000. If possible, keeping the goal to less than $5000 seems to be the best chance of success. There is a sharp drop in success rate after $45000.
 
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+
 - What are some limitations of this dataset?
 Some limitations of this data set is that the data doesn't show the external factors that might come into these kickstarters. For example, a good way for kickstarters to find success is to take a small budget for some sort of marketing. It doesn't have to be a huge amount and can be contributed into the final kickstarter goal amount. We don't know if any of these kickstarters had a budget for marketing which could skew the data to be more favorable in a particular way. This might explain how the large goal of $40,000 to $45,000 had a little more success rate. More money means they can afford to use some of the budget on marketing.
 
